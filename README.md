@@ -2,7 +2,7 @@
  Enhanced HUD -Only Menu For ESX
  
  ## Kurulum
- Dosyalarını indirip resource kısmına atın. Server.cfg dosyasına
+ Dosyaları indirip resource kısmına atın. Server.cfg dosyasına
  
  start menu
  
